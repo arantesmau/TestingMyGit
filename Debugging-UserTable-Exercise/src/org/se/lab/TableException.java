@@ -19,7 +19,5 @@ public class TableException
         super(message, cause);
     }
     
-    public static void main(String[] args) {
-		System.out.println("Hello");
-	}
+    
 }
